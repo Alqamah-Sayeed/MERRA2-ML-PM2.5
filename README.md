@@ -15,7 +15,7 @@ The dataset consists of two parameters “MERRA2_CNN_Surface_PM25” and “QFLA
 
 
 # References:
-**Gupta, P., & Sayeed, A. (2024). GES DISC Mission Guides: HAQAST Global Hourly PM2.5. https://disc.gsfc.nasa.gov/datasets/MERRA2_CNN_HAQAST_PM25_1/summary**
+**Pawan Gupta and Alqamah Sayeed (2024), MERRA2_CNN_HAQAST bias corrected global hourly surface total PM2.5 mass concentration, V1, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), Accessed: [Data Access Date], doi:10.5067/OCKK5HCFW5N3**
 
 **Sayeed, A., Lin, P., Gupta, P., Tran, N. N. M., Buchard, V., & Christopher, S. (2022). Hourly and Daily PM 2.5 Estimations Using MERRA‐2: A Machine Learning Approach. Earth and Space Science, 9(11), e2022EA002375. https://doi.org/10.1029/2022EA002375**
 
